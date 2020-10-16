@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Otus.SpaHosting", "Otus.SpaHosting\Otus.SpaHosting.csproj", "{1DEC3BE3-EAF3-4517-A794-41B902322C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{78DF3B72-88C2-40B5-B1EA-887A2F07B691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEC3BE3-EAF3-4517-A794-41B902322C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEC3BE3-EAF3-4517-A794-41B902322C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEC3BE3-EAF3-4517-A794-41B902322C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEC3BE3-EAF3-4517-A794-41B902322C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DF3B72-88C2-40B5-B1EA-887A2F07B691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DF3B72-88C2-40B5-B1EA-887A2F07B691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DF3B72-88C2-40B5-B1EA-887A2F07B691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DF3B72-88C2-40B5-B1EA-887A2F07B691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504ACE0C-68E0-4C78-B9DF-1B218996C7C4}
+	EndGlobalSection
+EndGlobal
